@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<menu>
+<Item>
+<ItemType>Menu</ItemType>
+<Title>Home</Title>
+<UrlDir>http://flash.vtuner.com/setupapp/yamaha/asp/BrowseFML/_get.php?</UrlDir>
+</Item>
+<Item>
+<ItemType>Menu</ItemType>
+<Title>Favorites</Title>
+<sub>
+<Item>
+<ItemType>Dir</ItemType>
+<Title>Favorites</Title>
+<UrlDir>http://flash.vtuner.com/setupapp/yamaha/asp/BrowseFML/1.xml?</UrlDir>
+<UrlDirBackUp>http://flash.vtuner.com/setupapp/yamaha/asp/BrowseFML/1.xml?</UrlDirBackUp>
+</Item>
+</sub>
+</Item>
+</menu>

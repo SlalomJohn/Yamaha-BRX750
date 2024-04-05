@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ListOfItems><ItemCount>47</ItemCount>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de111</StationId>
+<StationName>RockRadioStation</StationName>
+<StationUrl>https://i8.streams.ovh:18075/stream?type=http&nocache=4078</StationUrl>
+<StationDesc>Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/rock-radio-station-logo1-304814114_611565457347977_3741075158900200936_n.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de112</StationId>
+<StationName>BlastFM Rock Radio</StationName>
+<StationUrl>https://165.227.53.102:8000/;?type=http&nocache=67742</StationUrl>
+<StationDesc>Rock, Classic Rock, Hard Rock, Metal</StationDesc>
+<Logo>http://192.168.1.8/logos/blastfmrock.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de113</StationId>
+<StationName>Pop Punk Radio</StationName>
+<StationUrl>http://cast5.my-control-panel.com:7364/stream?type=http&nocache=237852</StationUrl>
+<StationDesc>Pop Punk Alternative Rock</StationDesc>
+<Logo>http://192.168.1.8/logos.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de114</StationId>
+<StationName>Salvame Radio</StationName>
+<StationUrl>http://66.70.249.70:5028/stream?type=http&nocache=83381</StationUrl>
+<StationDesc>Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/Salvame-Radio-300_1568815333.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de115</StationId>
+<StationName>The Vault</StationName>
+<StationUrl>http://192.99.83.149:8026</StationUrl>
+<StationDesc>Rock, Pop, soul, 1940 to 1999</StationDesc>
+<Logo>http://192.168.1.8/logos.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>MP3</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de116</StationId>
+<StationName>Orbita Radio Online</StationName>
+<StationUrl>http://31.132.6.142:4304/stream?type=http&nocache=20794</StationUrl>
+<StationDesc>Pop Rock Baladas & Dance</StationDesc>
+<Logo>http://192.168.1.8/logos/radioorbita-LOGO-ORBITA-BLANCO-agosto2020.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de117</StationId>
+<StationName>Tay Bridges Radio - https://www.taybridgesradio.org/</StationName>
+<StationUrl>http://solid2.streamupsolutions.com:11142/stream?type=http&nocache=504969</StationUrl>
+<StationDesc>Classic Hits, Top 40, Oldies, Pop, Adult Contemporary, 1970s, 1980s, 1990s, 2000's,1960s,</StationDesc>
+<Logo>http://192.168.1.8/logos/tay-bridges-radio-nackd8ydddqc.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de118</StationId>
+<StationName>RadioStream.Top</StationName>
+<StationUrl>http://radiostream.top:8123/radio</StationUrl>
+<StationDesc>Deep, Chill, Ambient, Organic, Progressive</StationDesc>
+<Logo>http://192.168.1.8/logos/radiostream-Radio_Logo_blackinwhite-350x80-1.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de119</StationId>
+<StationName>Planet Ambi HD Radio - Music For Relaxation</StationName>
+<StationUrl>http://philae.shoutca.st:9019/stream?type=http&nocache=780008</StationUrl>
+<StationDesc>Ambient</StationDesc>
+<Logo>http://192.168.1.8/logos/planet-ambient-6208c6f4228d2.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1110</StationId>
+<StationName>NATURE RADIO SLEEP</StationName>
+<StationUrl>https://mpc2.mediacp.eu:8376/stream?type=http&nocache=2005</StationUrl>
+<StationDesc>Ambient</StationDesc>
+<Logo>http://192.168.1.8/logos/nature-radio-64173e61c9aab.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1111</StationId>
+<StationName>Ambiesphere</StationName>
+<StationUrl>http://uk5.internet-radio.com:8347/stream?type=http&nocache=3543</StationUrl>
+<StationDesc>Ambient Chillout Relaxation</StationDesc>
+<Logo>http://192.168.1.8/logos.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>192</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1112</StationId>
+<StationName>Nebula</StationName>
+<StationUrl>http://cast4.my-control-panel.com:7062/autodj</StationUrl>
+<StationDesc>Ambient Chillout Chill</StationDesc>
+<Logo>http://192.168.1.8/logos/nebula-radio-64230cd037f81.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>192</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1113</StationId>
+<StationName>HouseHold Radio (CHILLED)</StationName>
+<StationUrl>http://cosmo.shoutca.st:8224/stream?type=http&nocache=360997</StationUrl>
+<StationDesc>Chillout Chilled New Age</StationDesc>
+<Logo>http://192.168.1.8/logos/YouRadio-nl-e1591477893520-1.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1114</StationId>
+<StationName>Nauagos Kanenas</StationName>
+<StationUrl>http://radio.streamings.gr:8064/autodj</StationUrl>
+<StationDesc>Indie Techno New Age Chillout Lounge Downtempo</StationDesc>
+<Logo>http://192.168.1.8/logos/nauagosnet-logo.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1115</StationId>
+<StationName>Radio182</StationName>
+<StationUrl>http://81.23.235.131:8182/stream?type=http&nocache=63573</StationUrl>
+<StationDesc>Pop /Rock / Dance</StationDesc>
+<Logo>http://192.168.1.8/logos/radio182-logo.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1116</StationId>
+<StationName>Hoex Radio Stream</StationName>
+<StationUrl>http://213.202.241.199:9336/stream?type=http&nocache=145009</StationUrl>
+<StationDesc>Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/HoexRadio_2.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1117</StationId>
+<StationName>This is my server name - Powered by WIMMEX Radio</StationName>
+<StationUrl>http://99.198.118.250:8226/stream?type=http&nocache=1033202</StationUrl>
+<StationDesc>Rock</StationDesc>
+<Logo>http://192.168.1.8/logos.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1118</StationId>
+<StationName>Rockaway Radio</StationName>
+<StationUrl>http://192.99.170.8:5096/stream?type=http&nocache=486285</StationUrl>
+<StationDesc>Classic Rock, New Rock, Classic Country, New Country, Blues</StationDesc>
+<Logo>http://192.168.1.8/logos/rockaway-RR-Banner.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1119</StationId>
+<StationName>BIG CACTUS COUNTRY RADIO Country Music & Southern Rock</StationName>
+<StationUrl>http://188.165.215.158:9038/stream?type=http&nocache=6940</StationUrl>
+<StationDesc>country, kickin' & rockin', country music, southern rock</StationDesc>
+<Logo>http://192.168.1.8/logos/big-cactus-logo_bcc.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1120</StationId>
+<StationName>Roundandsound.nl</StationName>
+<StationUrl>https://85.214.196.175:80/;?type=http&nocache=148229</StationUrl>
+<StationDesc>pop rock</StationDesc>
+<Logo>http://192.168.1.8/logos/roundandsound-logo_roundandsound_radio1_rond.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1121</StationId>
+<StationName>BluesMen Channel (Gold)</StationName>
+<StationUrl>http://173.249.21.17:8114/stream?type=http&nocache=155187</StationUrl>
+<StationDesc>Blues Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/BluesMen-1558.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1122</StationId>
+<StationName>House Music Radio uk</StationName>
+<StationUrl>https://uk4-vn.mixstream.net:8128/;?type=http&nocache=111592</StationUrl>
+<StationDesc>House, Tech House, Trance, Acid House, Classic House, Progressive, Melodic,</StationDesc>
+<Logo>http://192.168.1.8/logos/house-music-radio-uk-btkgrauy44j6.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1123</StationId>
+<StationName>Rock Melodic Radio - AOR MELODIC ROCK HARD ROCK</StationName>
+<StationUrl>https://live.rockmelodic-radio.com:8124/stream?type=http&nocache=39336</StationUrl>
+<StationDesc>AOR -  Melodic Rock - Hard Rock - Classic Rock - FM Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/rock-melody-radio-sgfyvpujsxre.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1124</StationId>
+<StationName>DEF CON Radio: SomaFM's year-round channel for DEF CON [SomaFM]</StationName>
+<StationUrl>https://ice5.somafm.com/defcon-256-mp3</StationUrl>
+<StationDesc>Electronic Hacking</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-def-con-logo-55579.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1125</StationId>
+<StationName>Doomed: Where every day is Halloween: Dark industrial/ambient music for tortured souls. [SomaFM]</StationName>
+<StationUrl>https://ice4.somafm.com/doomed-256-mp3</StationUrl>
+<StationDesc>ambient industrial</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-doomed120.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1126</StationId>
+<StationName>Folk Forward: Indie Folk, Alt-folk and the occasional folk classics. [SomaFM]</StationName>
+<StationUrl>https://ice4.somafm.com/folkfwd-128-mp3</StationUrl>
+<StationDesc>Folk Indie Newgrass</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-folk-forward-logo-54636.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1127</StationId>
+<StationName>The Dark Zone: Dark ambient music [SomaFM]</StationName>
+<StationUrl>https://ice6.somafm.com/darkzone-256-mp3</StationUrl>
+<StationDesc>Dark Ambient</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-darkzone-120.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1128</StationId>
+<StationName>SYNPHAERA: SPACE | TIME | MATTER [SomaFM]</StationName>
+<StationUrl>https://ice6.somafm.com/synphaera-256-mp3</StationUrl>
+<StationDesc>Ambient/Electronic</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-synphaera120.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1129</StationId>
+<StationName>Groove Salad: a nicely chilled plate of ambient beats and grooves. [SomaFM]</StationName>
+<StationUrl>https://ice1.somafm.com/groovesalad-256-mp3</StationUrl>
+<StationDesc>Ambient Chill</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-grover-salad-logo-56186.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1130</StationId>
+<StationName>Drone Zone: Atmospheric ambient space music. Serve Best Chilled. Safe with most medications. [SomaFM]</StationName>
+<StationUrl>http://ice3.somafm.com/dronezone-256-mp3</StationUrl>
+<StationDesc>Techno Ambient Space</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-drone-zone-logo-11547.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>256</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1131</StationId>
+<StationName>Deep Space One: Deep ambient electronic and space music. [SomaFM]</StationName>
+<StationUrl>http://ice1.somafm.com/deepspaceone-128-mp3</StationUrl>
+<StationDesc>Ambient Space</StationDesc>
+<Logo>http://192.168.1.8/logos/soma-deep-space-deepspaceone400.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1132</StationId>
+<StationName>dinamo.fm legacy</StationName>
+<StationUrl>http://channels.dinamo.fm/legacy-mp3</StationUrl>
+<StationDesc>house,deep house,electronica,techno,downtempo,chillout,nu disco,remixes</StationDesc>
+<Logo>http://192.168.1.8/logos/dinamo.fm-logo.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>192</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1133</StationId>
+<StationName>Acoustic</StationName>
+<StationUrl>http://epdop.hostingradio.ru:8033/acoustic128.mp3</StationUrl>
+<StationDesc>ruska</StationDesc>
+<Logo>http://192.168.1.8/logos.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128000</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1134</StationId>
+<StationName>Radio SHOCK</StationName>
+<StationUrl>http://spb.radioshock.ru/radioshock</StationUrl>
+<StationDesc>Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/radio-shock-only_logo_2017.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1135</StationId>
+<StationName>1.FM - Absolute TOP 40 Radio</StationName>
+<StationUrl>http://strm112.1.fm/top40_mobile_mp3</StationUrl>
+<StationDesc>Top 40</StationDesc>
+<Logo>http://192.168.1.8/logos/1.fm-logo-22148.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>192</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1136</StationId>
+<StationName>gorillafm</StationName>
+<StationUrl>http://strm112.1.fm/gorillafm_mobile_mp3</StationUrl>
+<StationDesc>Indy</StationDesc>
+<Logo>http://192.168.1.8/logos/1.fm-logo-22148.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1137</StationId>
+<StationName>181.FM The Eagle (Classic)</StationName>
+<StationUrl>http://listen.181fm.com/181-eagle_128k.mp3</StationUrl>
+<StationDesc>Adult</StationDesc>
+<Logo>http://192.168.1.8/logos/181fm-the-eagle-s55021d.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1138</StationId>
+<StationName>957 Jack FM</StationName>
+<StationUrl>http://stream.affordablestreaming.com:8000/KPKR.mp3</StationUrl>
+<StationDesc>Rock</StationDesc>
+<Logo>http://192.168.1.8/logos/95.7-jack-fm-sm95.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1139</StationId>
+<StationName>radio42</StationName>
+<StationUrl>http://209.95.50.189:9797/live</StationUrl>
+<StationDesc>Underground</StationDesc>
+<Logo>http://192.168.1.8/logos/97-underground-radio.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>192</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1140</StationId>
+<StationName>1A Rock Songs</StationName>
+<StationUrl>http://stream.1a-webradio.de/saw-rock/mp3-128/</StationUrl>
+<StationDesc></StationDesc>
+<Logo>http://192.168.1.8/logos/1a-radio-rock-crwgmsnxaahk.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>text/html; charset=UTF-8</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1141</StationId>
+<StationName>16Bit.FM CAFE Channel | 192K | Music for Relaxation & Conversation</StationName>
+<StationUrl>http://16bitfm.com:8000/cafe_mp3_192</StationUrl>
+<StationDesc>Downtempo, Ambient, Trip-Hop, Chillhouse</StationDesc>
+<Logo>http://192.168.1.8/logos/16bit-cafe-logo-33089.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>192</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1142</StationId>
+<StationName>Echoes of BLUEMARS - Cryosleep</StationName>
+<StationUrl>http://streams.echoesofbluemars.org:8000/cryosleep</StationUrl>
+<StationDesc>Ambient</StationDesc>
+<Logo>http://192.168.1.8/logos/Echoes-of-BLUEMARS-c175.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1143</StationId>
+<StationName>LOUNGE-RADIO.COM - swiss made</StationName>
+<StationUrl>http://fr1.lounge-radio.com:80/lounge128.mp3</StationUrl>
+<StationDesc>Lounge Downtempo Chillout Ambient Easy Listening</StationDesc>
+<Logo>http://192.168.1.8/logos/lounge-radio-768x73.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1144</StationId>
+<StationName>Radio Schizoid</StationName>
+<StationUrl>http://schizoid.in:8000/chill</StationUrl>
+<StationDesc>Chillout/Ambient/Psychill</StationDesc>
+<Logo>http://192.168.1.8/logos/radio-schizoid-62ea3ebfb43f2.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1145</StationId>
+<StationName>Radio Bloodstream</StationName>
+<StationUrl>http://uk1.internet-radio.com:8294/live</StationUrl>
+<StationDesc>Rock Metal Heavy Metal Punk</StationDesc>
+<Logo>http://192.168.1.8/logos/radio-bloodstream-logo600.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1146</StationId>
+<StationName>PARTY VIBE RADIO : AMBIENT</StationName>
+<StationUrl>http://94.130.242.5:8056</StationUrl>
+<StationDesc>Ambient</StationDesc>
+<Logo>http://192.168.1.8/logos/radio-party-vibe-party-vibe-radio-logo.png</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>128</StationBandWidth>
+<StationMime>MP3</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_edgfaf11-43bc-4c27-872c-bf72de1147</StationId>
+<StationName>RadioStream.Top</StationName>
+<StationUrl>http://radiostream.top:8123/radio</StationUrl>
+<StationDesc>Deep, Chill, Ambient, Organic, Progressive</StationDesc>
+<Logo>http://192.168.1.8/logos/radio-stream.top-Radio_Logo_blackinwhite-350x80-1.jpg</Logo>
+<StationFormat>assisi</StationFormat>
+<StationLocation>XX</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>audio/mpeg</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+
+</ListOfItems>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ListOfItems>
+<ItemCount>15</ItemCount>
+<Item>
+<ItemType>Station</ItemType>
+<StationId>RB_eddaaf11-bfbc-4c27-872c-bf72de11efa6</StationId>
+<StationName>_Antenna Web Assisi</StationName>
+<StationUrl>http://italiavera.radioca.st/stream?type=http&amp;nocache=296</StationUrl>
+<StationDesc>assisi, firenze, gubbio, italian, mp3, napoli, perugia, petrignano, pop, radio, rock, roma, umbria, venezia, web</StationDesc>
+<Logo>http://185.170.10.210/ycast/icon?id=RB_eddaaf11-bfbc-4c27-872c-bf72de11efa6</Logo><StationFormat>assisi</StationFormat>
+<StationLocation>IT</StationLocation>
+<StationBandWidth>320</StationBandWidth>
+<StationMime>MP3</StationMime>
+<Relia>3</Relia>
+<Bookmark />
+</Item>
+</ListOfItems>
