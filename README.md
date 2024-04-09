@@ -26,7 +26,7 @@
 6. Edit file **/var/www/html/setupapp/yamaha/asp/BrowseFML/_getl.php** and set **$SIP** to your server IP, e.g. 192.168.1.1 (in internal LAN), or real IP for VPS
 7. Run
 ```
-	chmod -R www-data:www-data /var/www
+	chown -R www-data:www-data /var/www
 ```
 8. Allow in firewall ports: **80/tcp, 53/udp**
 9. Set on `Yamaha` in `LAN settings` DNS to your server IP
