@@ -43,9 +43,9 @@
    where
 ```
 	URL		full url for audio stream in audio/mpeg format (e.g. Shoutcast), ACC/OGG not supported!
-	StationName	Optional station name, exmaple - Rock station forever
-	StationGenre	Optional station genres, exmaple - hard Rock, Rock, Ambient
-	StationLogo	Optional station logo filename in /var/www/html/logos , exmaple - LogoStation.jpg, support JPG/PNG files, don't use big size (slow loading) and long length (cropping) images, don't use spaces in file name!
+	StationName	Optional station name, example - Rock station forever
+	StationGenre	Optional station genres, example - hard Rock, Rock, Ambient
+	StationLogo	Optional station logo filename in /var/www/html/logos , example - LogoStation.jpg, support JPG/PNG files, don't use big size (slow loading) and long length (cropping) images, don't use spaces in file name!
 ```
 3. New stations logos put in **/var/www/html/logos**
 4. If logo not set - used file **/var/www/html/logos.jpg**
